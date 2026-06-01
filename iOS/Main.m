@@ -3,7 +3,7 @@
 #import <Foundation/Foundation.h>
 #import <objc/runtime.h>
 
-#define API_URL @"https://services.projectorbitfn.xyz"
+#define API_URL @"http://40.70.246.235:8080"
 #define EPIC_GAMES_URL @"ol.epicgames.com"
 
 @interface CustomURLProtocol : NSURLProtocol
